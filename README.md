@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Figma** to enhance my UI/UX design skills. 
 
-- 👨‍💻 All of my projects are available at [https://ankitdhingra.netlify.app/](https://ankitdhingra.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://ankitdhingra.netlify.app/)
 
 - 💬 Ask me about **full stack development, JavaScript, or project management.**
 
