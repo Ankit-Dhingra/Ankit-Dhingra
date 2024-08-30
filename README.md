@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **full stack development, JavaScript, or project management.**
 
-- 📄 Know about my experiences [[Resume](https://github.com/user-attachments/files/16809726/Ankit_Dhingra_CV_git.pdf)]
+- 📄 Know about my experiences [Resume](https://github.com/user-attachments/files/16809726/Ankit_Dhingra_CV_git.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
