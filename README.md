@@ -5,17 +5,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit-dhingra&label=Profile%20views&color=0e75b6&style=flat" alt="ankit-dhingra" /> </p>
 
-- 🔭 I’m currently working on a frontend animated website. [OBYS](https://obys-agency-sa4e.onrender.com/)
-
-- 🌱 I’m currently learning  **Figma** to enhance my UI/UX design skills.
-
-- 👨‍💻 All of my projects are available at [Portfolio](https://ankitdhingra.netlify.app/)
-
-- 💬 Ask me about *full stack development, JavaScript, or project management.**
-  
+- 🔭 Currently working on **Generative AI Projects**  
+- 🌱 Learning **Generative & Agentic AI** to enhance my development skills  
+- 💻 Explore all my projects here: [**Portfolio**](https://ankitdhingra.netlify.app/)  
+- 💬 Ask me about **Full Stack Development**, **JavaScript**, or **AI Integration**  
 - 📫 How to reach me **ankitdhingra1909@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://github.com/user-attachments/files/16809726/Ankit_Dhingra_CV_git.pdf)
+- 📄 Know about my experiences [**Resume**](https://drive.google.com/file/d/1iKt9kYyXbcYhyxzg8ff_zmAU7RvIluuO/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
